@@ -8,7 +8,7 @@
     "@mdx-js/react": "1.6.22",
     "@mdx-js/tag": "0.20.3",
     "antd": "4.16.8",
-    "esbuild": "0.13.8",
+    "esbuild": "0.14.7",
     "gatsby": "^4.0.0",
     "gatsby-cli": "^4.0.0",
     "gatsby-plugin-image": "^2.0.0",
